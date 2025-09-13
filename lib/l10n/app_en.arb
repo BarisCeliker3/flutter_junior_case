@@ -1,0 +1,10 @@
+{
+  "appTitle": "Case App",
+  "films": "Films",
+  "upload": "Upload",
+  "darkTheme": "Dark Theme",
+  "lightTheme": "Light Theme",
+  "profile": "Profile",
+  "likedMovies": "Liked Movies",
+  "noLikedMovies": "No liked movies yet."
+}
