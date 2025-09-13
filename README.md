@@ -7,7 +7,6 @@ Bu proje, Baris Çeliker tarafından geliştirilmiş ve modern, sürdürülebili
 ## 📋 İçindekiler
 
 - [📌 Özellikler](#-özellikler)
-- [🏗️ Proje Yapısı](#-proje-yapısı)
 - [⚙️ Kurulum](#-kurulum)
 - [🚀 Çalıştırma](#-çalıştırma)
 - [🔌 Kullanılan Paketler](#-kullanılan-paketler)
